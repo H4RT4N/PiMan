@@ -1,5 +1,5 @@
 # **Raspberry Pi Manager** 
-This repository will contain the project work done by the members of Team Budapest throughout the course of the Fall 2019 semester in CS158B. Throughout the documentation, there will be files and folders referenced, but they will be referred to as if you are currently located in the ***root*** directory of this repository.     
+**Since this is a class project that spans multiple semesters and different students, the code is NOT open source.** However, this repository will contain **only the readme files** written by the members of Team Budapest throughout the course of the Fall 2019 semester in CS158B. Throughout the documentation, there will be files and folders referenced, but they will be referred to as if you are currently located in the ***root*** directory of this repository.     
 The options in this repository is starting the server, identifying the mac addresses of the pi's, restarting the pi's, reinstalling the single Raspberry pi, and installing a single Raspberry pi with a debugging remote shell.     
 Note: The original notes left behind by the originator, Team Ice from Fall 2018, will be kept as documentation and has been moved to [Additional Notes](##Additional-Notes) because documentation is important.      
 
